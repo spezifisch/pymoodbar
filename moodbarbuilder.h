@@ -24,6 +24,7 @@
 #include <QList>
 #include <boost/python.hpp>
 #include <boost/python/stl_iterator.hpp>
+#include <vector>
 
 class MoodbarBuilder {
  public:
